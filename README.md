@@ -2,6 +2,7 @@
 Data Analyst | Data Scientist | Machine Learning Engineer | Prompt Engineer
 
 Professional Summary
+
 Results-driven data professional with hands-on experience in data analytics, data science, and machine learning fundamentals. Proficient in Python, SQL, and data visualization tools, with the ability to transform complex datasets into meaningful insights.
 Skilled in prompt engineering and AI-driven solutions, enabling efficient automation and enhanced decision-making. Committed to building scalable data solutions and continuously expanding expertise in machine learning and advanced analytics.
 
