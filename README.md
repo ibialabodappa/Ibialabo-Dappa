@@ -10,17 +10,25 @@ Skilled in prompt engineering and AI-driven solutions, enabling efficient automa
 Core Competencies
 
 Data Analytics: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Reporting
+
 Data Science: Statistical Analysis, Predictive Modeling
+
 Machine Learning: Model Building, Model Evaluation (Supervised Learning - Beginner Level)
+
 Prompt Engineering: AI Prompt Design, Optimization, and Automation Workflows
 
 Technical Skills
+
 Programming & Query Languages: Python, SQL
+
 Data Tools: Excel, Power BI
-Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn
+
+Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn,plotly,scipy,sklearn
 
 Contact Information
+
 LinkedIn: https://www.linkedin.com/in/ibialabo-dappa-2bab89323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 Email: ibialabodappa@gmail.com
 
 Career Objective
