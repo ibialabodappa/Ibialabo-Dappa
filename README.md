@@ -25,6 +25,10 @@ Data Tools: Excel, Power BI
 
 Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn,plotly,scipy,sklearn
 
+Education
+
+Background in Electrical Electronic Engineering 
+
 Contact Information
 
 LinkedIn: https://www.linkedin.com/in/ibialabo-dappa-2bab89323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
