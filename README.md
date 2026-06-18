@@ -28,6 +28,7 @@ Libraries & Frameworks: Pandas, NumPy, Matplotlib, Seaborn,plotly,scipy,sklearn
 Education
 
 Background in Electrical Electronic Engineering 
+Datacamp python certification
 
 Contact Information
 
