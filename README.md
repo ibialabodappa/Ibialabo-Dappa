@@ -33,7 +33,7 @@ Datacamp python certification
 Contact Information
 
 LinkedIn: https://www.linkedin.com/in/ibialabo-dappa-2bab89323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
-YouTube:
+YouTube: https://youtube.com/@sandra_data_tech?si=2rgCsW-mGJK-qBOE
 
 Email: ibialabodappa@gmail.com
 
